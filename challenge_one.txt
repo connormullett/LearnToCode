@@ -1,0 +1,6 @@
+
+What you will learn
+--------
+ - Variables
+ - Print statements
+
