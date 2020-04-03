@@ -46,7 +46,7 @@ also be notes on how run python files from VS Code
    other words, if we use this command, we will go back to the directory
    we were just in. Its like a 4 character back button
 
-### CHALLENGE
+#### CHALLENGE
  - Try and use the terminal to find your desktop and view its contents
 
 
@@ -62,5 +62,14 @@ also be notes on how run python files from VS Code
    and execute the program
   
 REMEMBER: Python reads the file as its running, top to bottom
-This can sometimes lead to issues with execution and create errors
+This can sometimes lead to issues with execution and create error
+
+
+## How to Use Git
+ - In the installation process, we installed a tool called git
+ - I have a video (here)[https://youtu.be/4rbrQAd4aZ8] that explains
+   how to use git and getting started
+ - for every challenge/week, create a repository to store your code
+   and push your code to github so others and I can see your solutions
+ - This also helps so I can see your code if you are stuck and need hep
 
